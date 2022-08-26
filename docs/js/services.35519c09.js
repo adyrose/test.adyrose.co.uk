@@ -1,0 +1,2 @@
+(()=>{var e={64494:(e,o,t)=>{"use strict";t.r(o)}},o={};function t(r){var n=o[r];if(void 0!==n)return n.exports;var i=o[r]={exports:{}};return e[r](i,i.exports,t),i.exports}t.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},t(64494),window.addEventListener("load",(function(){console.log("get linked in posts")}))})();
+//# sourceMappingURL=services.35519c09.js.map
